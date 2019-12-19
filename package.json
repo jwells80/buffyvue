@@ -1,0 +1,24 @@
+{
+  "name": "buffyvue",
+  "version": "1.0.0",
+  "description": "Hello, world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwells80/buffyvue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwells80/buffyvue/issues"
+  },
+  "homepage": "https://github.com/jwells80/buffyvue",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+ }
+}
